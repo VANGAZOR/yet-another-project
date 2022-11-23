@@ -3,7 +3,7 @@
     flex-direction: column;
     max-width: 456px;
     justify-content: flex-end;
-    gap: 12px
+    gap: 12pxж
 }
 
 @media all and (max-width: 768px) {
