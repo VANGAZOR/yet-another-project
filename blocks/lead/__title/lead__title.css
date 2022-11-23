@@ -1,0 +1,28 @@
+.lead__title {
+    max-width: 720px;
+    font-family: 'Inter', 'Arial', 'Helvetica';
+    font-weight: 900;
+    font-size: 6rem;
+    line-height: 104%;
+    text-align: center;
+    align-self: center;
+    justify-content: center;
+    /* padding-left: 5%;
+    padding-right: 5%; */
+    margin: 0;
+}
+
+@media all and (max-width: 768px) {
+    .lead__title {
+        max-width: 90%;
+        font-size: 12vw;
+    }   
+}
+
+@media all and (max-width: 320px) {
+    .lead__title {
+        font-size: 2.5rem;
+        line-height: 110%;
+    }   
+}
+

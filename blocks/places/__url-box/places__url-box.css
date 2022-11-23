@@ -1,0 +1,29 @@
+.places__url-box {
+    display: flex;
+    flex-direction: column;
+    max-width: 456px;
+    justify-content: flex-end;
+    gap: 12px
+}
+
+@media all and (max-width: 768px) {
+    .places__url-box {
+        max-width: 352px;
+    }
+    
+}
+
+@media all and (max-width: 368px) {
+    .places__url-box {
+        margin: 0 16px 0;
+    }
+    
+}
+@media all and (max-width: 320px) {
+    .places__url-box {
+        max-width: 288px;
+    }
+    
+}
+
+

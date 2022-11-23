@@ -1,0 +1,30 @@
+.intro__text {
+    max-width: 720px;
+    font-family: 'Inter', 'Arial', 'Helvetica';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 163%;
+    padding-right: 24px;
+    margin-left: 148px;
+}
+
+
+@media all and (max-width: 1024px) {
+    .intro__text {
+        margin-left: 48px;
+    }
+    
+}
+
+@media all and (max-width: 768px) {
+    .intro__text {
+        margin-left: 24px;
+    }
+    
+}
+
+@media all and (max-width:320px) {
+    .intro__text {
+        margin-left: 12px;
+    }
+}

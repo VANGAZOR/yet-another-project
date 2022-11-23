@@ -1,0 +1,28 @@
+.footer__links {
+    display: flex;
+    gap: 18px;
+    list-style-type: none;
+    padding: 0;
+    margin-left: 48px;
+}
+
+@media all and (max-width: 768px) {
+    .footer__links {
+    margin-left: 24px;
+    }
+}
+
+@media all and (max-width: 490px) {
+    .footer__links {
+    margin-left: 24px;
+    flex-wrap: wrap;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .footer__links {
+    margin-left: 16px;
+    flex-direction: column;
+    line-height: 1;
+    }
+}

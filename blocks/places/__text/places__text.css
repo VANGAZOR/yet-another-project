@@ -1,0 +1,13 @@
+.places__text {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    max-width: 484px;
+}   
+
+@media all and (max-width:388px) {
+    .places__text {
+        max-width: 288px;
+    }
+    
+}

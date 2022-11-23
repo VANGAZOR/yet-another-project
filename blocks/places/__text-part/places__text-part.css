@@ -1,0 +1,34 @@
+.places__text-part {
+    max-width: 484px;
+    margin: 0;
+    font-family: 'Inter', 'Arial', 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 163%;
+    color: #FFFFFF;
+}
+
+@media all and (max-width:1024px) {
+    .places__text-part {
+        max-width: 456px;
+    }
+}
+
+@media all and (max-width:978px) {
+    .places__text-part {
+        max-width: 352px;
+    }
+}
+
+@media all and (max-width:368px) {
+    .places__text-part {
+        margin: 0 16px 0;
+    }
+}
+
+@media all and (max-width:320px) {
+    .places__text-part {
+        max-width: 288px;
+    }
+}
