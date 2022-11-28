@@ -25,9 +25,9 @@
     
 }
 
-@media all and (max-width:576px) {
+@media all and (max-width: 576px) {
     .intro__text {
-        margin-left: 12px;
+        margin-left: 16px;
         padding-right: 16px;
     }
 }

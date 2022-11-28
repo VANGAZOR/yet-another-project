@@ -26,7 +26,7 @@
 
 @media all and (max-width: 576px) {
     .intro__list {
-        margin-left: 12px;
+        margin-left: 16px;
         margin-bottom: 64px;
     }
 }
