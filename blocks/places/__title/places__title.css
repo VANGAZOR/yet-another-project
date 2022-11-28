@@ -4,6 +4,7 @@
     font-weight: 900;
     font-size: 4.5rem;
     line-height: 1.1;
+    margin: 0;
 }
 
 @media all and (max-width: 978px) {
@@ -13,17 +14,12 @@
     }
 }
 
-@media all and (max-width: 368px) {
+@media all and (max-width: 576px) {
     .places__title {
         margin: 0 16px 0;
-    }
-    
-}
-
-@media all and (max-width: 320px) {
-    .places__title {
         font-size: 2rem;
         line-height: 109%;
-    }
+    } 
 }
+
 

@@ -16,7 +16,7 @@
 }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 576px) {
     .lead__caption-picture {
         margin-left: 16px;
 }

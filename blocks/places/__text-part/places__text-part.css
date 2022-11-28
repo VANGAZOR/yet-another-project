@@ -21,14 +21,8 @@
     }
 }
 
-@media all and (max-width:368px) {
+@media all and (max-width:576px) {
     .places__text-part {
         margin: 0 16px 0;
-    }
-}
-
-@media all and (max-width:320px) {
-    .places__text-part {
-        max-width: 288px;
     }
 }

@@ -13,17 +13,12 @@
     
 }
 
-@media all and (max-width: 368px) {
+@media all and (max-width: 576px) {
     .places__url-box {
         margin: 0 16px 0;
     }
     
 }
-@media all and (max-width: 320px) {
-    .places__url-box {
-        max-width: 288px;
-    }
-    
-}
+
 
 

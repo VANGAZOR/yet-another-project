@@ -5,7 +5,7 @@
     max-width: 484px;
 }   
 
-@media all and (max-width:388px) {
+@media all and (max-width:576px) {
     .places__text {
         max-width: 288px;
     }

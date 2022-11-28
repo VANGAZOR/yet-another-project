@@ -1,9 +1,6 @@
 .places {
     margin: 92px 148px;
     max-width: 984px;
-    display: flex;
-    flex-direction: column;
-    row-gap: 80px;
 }
 
 
@@ -20,10 +17,9 @@
     }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 576px) {
     .places {
         gap: 50px;
         margin: 64px 0 0;
     }
 }
-

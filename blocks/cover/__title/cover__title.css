@@ -7,31 +7,34 @@
     text-align: center;
     color: #FFF;
     max-width: 560px;
-    height: 152px;
     margin: 0 auto 32px;
 }
 
 
 @media all and (max-width: 768px) {
     .cover__title {
-        font-size: 72px;
-        line-height: 76px;
+        width: 90%;
+        font-size: 7.38vw;
+        line-height: 106%;
         }
 
 }
 
-@media all and (max-width: 767px) {
+/* @media all and (max-width: 767px) {
     .cover__title {
         font-size: 2rem;
         line-height: 109%;
         max-width: 240px;
         }
 
-}
+} */
 
-@media all and (max-width: 320px) {
+/* @media all and (max-width: 320px) {
     .cover__title {
-        align-content: center;
+        font-size: 10vw;
+        line-height: 109%;
+        max-width: 90%;
+        border: 1px solid red;
         }
 
-}
+} */

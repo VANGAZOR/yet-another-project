@@ -1,4 +1,3 @@
-
 .places__box {
     display: grid;
     grid-template-columns: min-content auto;
@@ -40,8 +39,6 @@
   
   @media (max-width: 320px) {
     .places__box {
-      grid-template-columns: 1fr;
-      grid-template-rows: repeat(2, auto);
       row-gap: 32px;
     }
   }
