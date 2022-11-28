@@ -7,6 +7,7 @@
     margin-top: 16px;
     text-align: end;
     margin-right: 48px;
+    margin-bottom: 24px;
 }
 
 @media all and (max-width: 768px) {
@@ -18,5 +19,6 @@
 @media all and (max-width: 576px) {
     .footer__author {
     line-height: 1;
+    margin-top: 48px;
     }
 }

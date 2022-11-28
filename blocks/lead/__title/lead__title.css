@@ -15,7 +15,6 @@
 @media all and (max-width: 768px) {
     .lead__title {
         max-width: 90%;
-        font-size: 12vw;
     }   
 }
 

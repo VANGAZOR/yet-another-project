@@ -4,6 +4,7 @@
     list-style-type: none;
     padding: 0;
     margin-left: 48px;
+    margin-bottom: 24px;
 }
 
 @media all and (max-width: 768px) {
@@ -16,6 +17,7 @@
     .footer__links {
     margin-left: 24px;
     flex-wrap: wrap;
+    gap: 32px;
     }
 }
 
@@ -24,5 +26,6 @@
     margin-left: 16px;
     flex-direction: column;
     line-height: 1;
+    margin-bottom: 0;
     }
 }

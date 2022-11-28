@@ -5,3 +5,15 @@
     margin-bottom: 0;
 }
 
+@media all and (max-width: 768px) {
+    .intro {
+        margin-top: 88px;
+    }
+}
+
+@media all and (max-width: 576px) {
+    .intro {
+        margin-top: 64px;
+    }
+}
+

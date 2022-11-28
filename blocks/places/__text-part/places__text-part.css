@@ -18,6 +18,7 @@
 @media all and (max-width:978px) {
     .places__text-part {
         max-width: 352px;
+        font-size: 1rem;
     }
 }
 
