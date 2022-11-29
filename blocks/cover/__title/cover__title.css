@@ -11,10 +11,9 @@
 }
 
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 576px) {
     .cover__title {
-        width: 288px;
-        height: 70px;
+        max-width: 288px;
         font-size: 2rem;
         line-height: 109%;
         margin-bottom: 16px;

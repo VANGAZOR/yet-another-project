@@ -14,7 +14,7 @@
 
 @media all and (max-width: 768px) {
     .lead__subtitle {
-        font-size: 4.6875vw;
+        font-size: 1.875rem;
     }   
 }
 
